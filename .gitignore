@@ -1,0 +1,8 @@
+# Prevent large/unwanted files from being pushed
+data/
+model/*.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.log
+.venv/
+*.pyc
