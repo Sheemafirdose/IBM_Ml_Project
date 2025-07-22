@@ -96,8 +96,6 @@ streamlit run app.py
 This project was developed as part of the AICTE Virtual Internship in Machine Learning in collaboration with IBM.
 It reflects practical skills in real-world ML application design, model integration, and user-focused system development.
 
-📸 Screenshots (Optional – Add If Available)
-Add screenshots of UI, prediction output, and suggestions feature here for better understanding.
 
 📬 Contact
 For any queries or collaboration:
